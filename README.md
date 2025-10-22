@@ -27,7 +27,7 @@ html<link href="lavi.css" rel="stylesheet">
         <img src="lp.png.png"/>
     </div>
 </div>
-[18/12/2024, 19:07] Namah Shivaya: css*{
+css*{
     background: whitesmoke;
     margin: 0%;
     padding: 0%;
