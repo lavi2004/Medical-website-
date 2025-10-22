@@ -1,5 +1,5 @@
 # Medical-website-
-[18/12/2024, 19:07] Namah Shivaya: html<link href="lavi.css" rel="stylesheet">
+ html<link href="lavi.css" rel="stylesheet">
 <div class="first">
     <h1>SHIVSATI</h1>
     <nav>
